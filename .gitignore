@@ -3,7 +3,7 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-# User-specific files
+# User-specific filessssss
 *.rsuser
 *.suo
 *.user
@@ -126,7 +126,7 @@ $tf/
 # Guidance Automation Toolkit
 *.gpState
 
-# ReSharper is a .NET coding add-in
+# ReSharper is a .NET coding add-ins
 _ReSharper*/
 *.[Rr]e[Ss]harper
 *.DotSettings.user
